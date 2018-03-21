@@ -2,7 +2,8 @@
   position: relative;
   height: 100vh;
   min-height: 700px;
-  background: url("../images/agency-landing/welcome-cover.jpg") no-repeat center center fixed;
+  center center fixed;
+  background: url("../images/app-promo/welcome.png") no-repeat center
   background-size: cover;
 }
 
@@ -72,7 +73,6 @@
   position: relative;
   height: 100vh;
   min-height: 700px;
-  background: url("../images/app-promo/wel-cover.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -138,7 +138,7 @@
 }
 
 .shards-app-promo-page--1 .app-screenshot {
-  background: url("../images/app-promo/features-background.jpg") no-repeat center center fixed;
+  center fixed;
   background-size: cover;
 }
 

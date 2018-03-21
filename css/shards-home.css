@@ -21,7 +21,7 @@
   position: absolute;
   margin-top: -20px;
   margin-left: -20px;
-  background-color: #333;
+  background-color: #000000;
   background: #007bff;
   border-radius: 100%;
   transition-timing-function: cubic-bezier(0.86, 0, 0.07, 1);
